@@ -1,4 +1,6 @@
 # Marketing Data Analysis using ML
+*UPDATE (11/17): Accuracy measures are based on sklearn package's model function scores, in this case classification rate*
+
 Project Background:
 * This is an updated version of my final project for a Machine Learning class I took at Brandeis International Business School.
 * It encompasses Data preprocessing, ML Model evaluation, as well as Predictive analytics
