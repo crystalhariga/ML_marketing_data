@@ -1,5 +1,9 @@
 # Marketing Data Analysis using ML
 *UPDATE (11/17): Accuracy measures are based on sklearn package's model function scores, in this case classification rate*
+### Summary
+* Prepared data (removing null values, feature selection) for model building
+* Evaluated Regression (Linear, Logistic) and Support Vector Machines on the dataset to determine the best model to predict a customer's response
+* Predicting a potential customer's response based on its customer profile using the best model (Support Vector Classifier)
 
 Project Background:
 * This is an updated version of my final project for a Machine Learning class I took at Brandeis International Business School.
